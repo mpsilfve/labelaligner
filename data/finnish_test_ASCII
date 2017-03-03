@@ -1,0 +1,300 @@
+muskotti pos=N case=FRML num=SGN muskottina
+sedimentoitua pos=V polar=POS mood=POT tense=PRS per=3 num=SGV sedimentoitunee
+kanavoida pos=V polar=POS mood=COND tense=PRS per=1 num=SGV kanavoisin
+terveys pos=N case=IN+ABL num=PLN terveyksistA
+kokonaispaino pos=N case=NOM num=PLN kokonaispainot
+rauhoittaa pos=V polar=POS mood=IMP tense=PRS per=2 num=PLV rauhoittakaa
+nurista pos=V polar=POS mood=IMP tense=PRS per=2 num=SGV nurise
+naisartisti pos=N case=ON+ESS num=SGN naisartistilla
+juhlamekko pos=N case=INS num=PLN juhlamekoin
+kasvilaji pos=N case=ON+ABL num=PLN kasvilajeilta
+paali pos=N case=ACC num=SGN paalin
+oikeistolaistua pos=V polar=POS mood=IND tense=PRS per=3 num=SGV oikeistolaistuu
+viestintAsatelliitti pos=N case=TRANS num=SGN viestintAsatelliitiksi
+irkkukahvi pos=N case=ON+ALL num=PLN irkkukahveille
+kvanttiutua pos=V polar=POS mood=COND tense=PRS per=2 num=SGV kvanttiutuisit
+kengittAA pos=V polar=POS mood=IMP tense=PRS per=2 num=SGV kengitA
+atsimuutti pos=N case=ON+ALL num=SGN atsimuutille
+herketA pos=V polar=POS mood=IMP tense=PRS per=3 num=SGV herketkOOn
+nimitellA pos=V polar=POS mood=IND tense=PRS per=1 num=PLV nimittelemme
+megatAhti pos=N case=IN+LAT num=PLN megatAhtiin
+ralli pos=N case=INS num=PLN rallein
+huomenaamu pos=N case=PRT num=PLN huomenaamuja
+iljetA pos=V polar=POS mood=IMP tense=PRS per=1 num=PLV iljetkAAmme
+penikoida pos=V polar=POS mood=IMP tense=PRS per=3 num=SGV penikoikoon
+jAAtikOityA pos=V polar=POS mood=IMP tense=PRS per=3 num=PLV jAAtikOitykOOt
+bassobaritoni pos=N case=FRML num=PLN bassobaritoneina
+stanssata pos=V polar=POS mood=IND tense=PST per=3 num=PLV stanssasivat
+suuntavilkku pos=N case=PRT num=SGN suuntavilkkua
+sosiolekti pos=N case=ON+ESS num=PLN sosiolekteillA
+sAApallo pos=N case=NOM num=SGN sAApallo
+riimi pos=N case=GEN num=SGN riimin
+skuutti pos=N case=GEN num=PLN skuuttien
+nussia pos=V polar=POS mood=IMP tense=PRS per=2 num=SGV nussi
+tOrO pos=N case=GEN num=PLN tOrOjen
+kvanttihyppy pos=N case=COM num=PLN kvanttihyppyineen
+ufoilla pos=V voice=ACT aspect=PROSP ufoilemaisillaan
+istuksia pos=V polar=POS mood=IND tense=PST per=1 num=PLV istuksimme
+vapunaatto pos=N case=NOM num=PLN vapunaatot
+keimailla pos=V polar=POS mood=IND tense=PST voice=PASS keimailtiin
+tundrarousku pos=N case=ON+ESS num=SGN tundrarouskulla
+kielenkArki pos=N case=IN+ESS num=PLN kielenkArjissA
+liimapuikko pos=N case=IN+ESS num=PLN liimapuikoissa
+kaamakettu pos=N case=ON+ALL num=SGN kaamaketulle
+vispata pos=V polar=POS mood=IND tense=PST per=2 num=PLV vispasitte
+tyfliitti pos=N case=GEN num=PLN tyfliittien
+organismi pos=N case=ACC num=PLN organismit
+apikaalisilmu pos=N case=ON+ABL num=PLN apikaalisilmuilta
+vompatti pos=N case=IN+ABL num=SGN vompatista
+asetyylikysteiini pos=N case=NOM num=SGN asetyylikysteiini
+kultakutri pos=N case=TRANS num=SGN kultakutriksi
+AlyttOmyys pos=N case=PRIV num=PLN AlyttOmyyksittA
+ruksia pos=V polar=POS mood=POT tense=PRS per=1 num=SGV ruksinen
+kompuroida pos=V polar=POS mood=IND tense=PRS voice=PASS kompuroidaan
+arkussini pos=N case=COM num=PLN arkussineineen
+individi pos=N case=IN+ABL num=SGN individistA
+maannostua pos=V polar=POS mood=IND tense=PRS per=2 num=PLV maannostutte
+erilaislehtisyys pos=N case=ON+ALL num=PLN erilaislehtisyyksille
+italialaistaa pos=V polar=POS mood=IMP tense=PRS per=2 num=PLV italialaistakaa
+poppakonsti pos=N case=IN+LAT num=SGN poppakonstiin
+emotionalismi pos=N case=IN+LAT num=SGN emotionalismiin
+lientAA pos=V polar=POS mood=COND tense=PRS per=2 num=SGV lientAisit
+trioksidi pos=N case=ON+ALL num=SGN trioksidille
+pasifisti pos=N case=NOM num=SGN pasifisti
+termokliini pos=N case=ON+ESS num=SGN termokliinilla
+substituoida pos=V polar=POS mood=COND tense=PRS per=1 num=PLV substituoisimme
+kaksinkertaistua pos=V polar=POS mood=IND tense=PST voice=PASS kaksinkertaistuttiin
+kiuru pos=N case=PRIV num=SGN kiurutta
+galego pos=N case=ON+ABL num=SGN galegolta
+antihistamiini pos=N case=ACC num=PLN antihistamiinit
+oppitunti pos=N case=NOM num=PLN oppitunnit
+kulkea pos=V polar=POS mood=IND tense=PST per=2 num=SGV kuljit
+riisiviini pos=N case=COM num=PLN riisiviineineen
+kihartua pos=V polar=POS mood=POT tense=PRS voice=PASS kiharruttaneen
+ulvahtaa pos=V polar=POS mood=IND tense=PRS voice=PASS ulvahdetaan
+ratto pos=N case=PRIV num=PLN ratoitta
+sAhkOtariffi pos=N case=NOM num=SGN sAhkOtariffi
+tamponoida pos=V polar=POS mood=POT tense=PRS voice=PASS tamponoitaneen
+seksi pos=N case=IN+ABL num=PLN sekseistA
+tontti pos=N case=TRANS num=PLN tonteiksi
+kipparoida pos=V polar=POS mood=COND tense=PRS per=3 num=SGV kipparoisi
+epAmiehekkyys pos=N case=ON+ABL num=SGN epAmiehekkyydeltA
+amalgaami pos=N case=INS num=PLN amalgaamein
+lAmpOkonduktanssi pos=N case=ON+ESS num=PLN lAmpOkonduktansseilla
+kolmiointi pos=N case=PRIV num=SGN kolmioinnitta
+anastaa pos=V polar=POS mood=POT tense=PRS per=2 num=SGV anastanet
+wokpannu pos=N case=IN+ESS num=PLN wokpannuissa
+jytistA pos=V polar=POS mood=IMP tense=PRS per=3 num=PLV jytiskOOt
+kryptattu pos=ADJ case=IN+ESS num=SGN kryptatussa
+vaimentaa pos=V voice=ACT aspect=PROSP vaimentamaisillaan
+huki pos=N case=ON+ESS num=SGN hukilla
+kaadattaa pos=V polar=POS mood=COND tense=PRS per=2 num=SGV kaadattaisit
+symposiumi pos=N case=PRT num=PLN symposiumeja
+pidAtysoikeus pos=N case=PRT num=SGN pidAtysoikeutta
+tarkastaa pos=V polar=POS mood=IND tense=PST per=1 num=PLV tarkastimme
+vislailla pos=V polar=POS mood=IND tense=PRS per=2 num=SGV vislailet
+nasevoitua pos=V polar=POS mood=COND tense=PRS per=2 num=PLV nasevoituisitte
+basmatiriisi pos=N case=GEN num=SGN basmatiriisin
+karrageeni pos=N case=PRT num=PLN karrageeneja
+katukivi pos=N case=ACC num=SGN katukiven
+kaksikotisuus pos=N case=ON+ESS num=SGN kaksikotisuudella
+amplitudi pos=N case=IN+ABL num=SGN amplitudista
+sirkkalehti pos=N case=FRML num=SGN sirkkalehtenA
+hillua pos=V polar=POS mood=IMP tense=PRS voice=PASS hilluttakoon
+etusijaistaa pos=V polar=POS mood=POT tense=PRS per=3 num=SGV etusijaistanee
+sinistyA pos=V voice=ACT finite=NFIN sinistyA
+resultantti pos=N case=IN+LAT num=SGN resultanttiin
+markkreivi pos=N case=TRANS num=SGN markkreiviksi
+vadi pos=N case=ON+ESS num=PLN vadeilla
+replikoitua pos=V polar=POS mood=IND tense=PRS per=3 num=SGV replikoituu
+kieltAA pos=V polar=POS mood=COND tense=PRS per=1 num=PLV kieltAisimme
+pohjaeliOstO pos=ADJ case=ON+ALL num=PLN pohjaeliOstOille
+patronyymi pos=N case=FRML num=SGN patronyymina
+katku pos=N case=NOM num=SGN katku
+nApistAA pos=V voice=ACT aspect=PROSP nApistAmAisillAAn
+sapettaa pos=V polar=POS mood=POT tense=PRS per=1 num=SGV sapettanen
+diabaasi pos=N case=IN+ABL num=SGN diabaasista
+valittaa pos=V polar=POS mood=IMP tense=PRS per=2 num=PLV valittakaa
+baronetti pos=N case=ON+ABL num=SGN baronetilta
+bernhardilaismunkki pos=N case=GEN num=PLN bernhardilaismunkkien
+pieneksyA pos=V polar=POS mood=IND tense=PRS per=3 num=PLV pieneksyvAt
+liputtaa pos=V polar=POS mood=IND tense=PST per=3 num=SGV liputti
+valaistua pos=V polar=POS mood=COND tense=PRS voice=PASS valaistuttaisiin
+biografi pos=N case=IN+ESS num=SGN biografissa
+dimetyylitereftalaatti pos=N case=GEN num=SGN dimetyylitereftalaatin
+aasianharlekiini pos=N case=NOM num=PLN aasianharlekiinit
+sAhkOmagnetismi pos=N case=PRIV num=PLN sAhkOmagnetismeitta
+AestAA pos=V polar=POS mood=IND tense=PRS per=2 num=SGV AestAt
+oikeudenkAyntikulu pos=N case=ON+ESS num=SGN oikeudenkAyntikululla
+ylittyA pos=V polar=POS mood=POT tense=PRS per=3 num=PLV ylittynevAt
+kolonni pos=N case=IN+ESS num=PLN kolonneissa
+desimaali pos=N case=PRT num=SGN desimaalia
+kirjata pos=V polar=POS mood=POT tense=PRS voice=PASS kirjattaneen
+elektroskooppi pos=N case=IN+ABL num=SGN elektroskoopista
+ananasOljy pos=N case=ACC num=SGN ananasOljyn
+otollisuus pos=N case=GEN num=PLN otollisuuksien
+keskuus pos=N case=PRT num=SGN keskuutta
+ortodoksimunkki pos=N case=ON+ABL num=SGN ortodoksimunkilta
+riisihArO pos=N case=GEN num=PLN riisihArOjen
+kilahdella pos=V polar=POS mood=COND tense=PRS per=2 num=PLV kilahtelisitte
+rakennetyOttOmyys pos=N case=NOM num=PLN rakennetyOttOmyydet
+avaruuspuku pos=N case=IN+LAT num=PLN avaruuspukuihin
+iestAA pos=V polar=POS mood=POT tense=PRS per=1 num=PLV iestAnemme
+rAAkAtA pos=V mood=PURP voice=ACT rAAkAtAkseen
+kohmettaa pos=V polar=POS mood=IMP tense=PRS voice=PASS kohmetettakoon
+turvakoti pos=N case=ON+ESS num=PLN turvakodeilla
+snOrppi pos=N case=IN+LAT num=PLN snOrppeihin
+gratinoida pos=V polar=POS mood=IND tense=PST per=2 num=SGV gratinoit
+entiteetti pos=N case=IN+ABL num=SGN entiteetistA
+puolivAli pos=N case=PRT num=SGN puolivAliA
+formula-ajo pos=N case=TRANS num=SGN formula-ajoksi
+irviA pos=V polar=POS mood=COND tense=PRS per=1 num=SGV irvisin
+kumottaa pos=V polar=POS mood=IMP tense=PRS per=3 num=PLV kumottakoot
+rikinpoisto pos=N case=NOM num=PLN rikinpoistot
+harustaa pos=V polar=POS mood=POT tense=PRS per=3 num=PLV harustanevat
+barbadosinsupi pos=N case=ON+ESS num=PLN barbadosinsupeilla
+byrokratisoida pos=V polar=POS mood=POT tense=PRS per=3 num=SGV byrokratisoinee
+silata pos=V polar=POS mood=IND tense=PRS voice=PASS silataan
+karjahtaa pos=V polar=POS mood=IMP tense=PRS per=3 num=PLV karjahtakoot
+vuohipukki pos=N case=TRANS num=PLN vuohipukeiksi
+postikortti pos=N case=PRIV num=SGN postikortitta
+OljyvAriliitu pos=N case=IN+LAT num=PLN OljyvAriliituihin
+umiakki pos=N case=TRANS num=SGN umiakiksi
+gliasolu pos=N case=GEN num=PLN gliasolujen
+agitoida pos=V polar=POS mood=COND tense=PRS per=2 num=PLV agitoisitte
+serenadi pos=N case=ACC num=SGN serenadin
+espanjalaisuus pos=N case=FRML num=SGN espanjalaisuutena
+musikantti pos=N case=ACC num=SGN musikantin
+lantata pos=V polar=POS mood=IND tense=PRS per=3 num=SGV lanttaa
+intellektualismi pos=N case=ON+ABL num=PLN intellektualismeilta
+ruokailu pos=N case=IN+ESS num=SGN ruokailussa
+klaffituoli pos=N case=ON+ABL num=PLN klaffituoleilta
+vuokrata pos=V polar=POS mood=IND tense=PRS per=1 num=SGV vuokraan
+tilli pos=N case=ON+ESS num=PLN tilleillA
+gallushappo pos=N case=PRT num=SGN gallushappoa
+jalkavaimo pos=N case=IN+LAT num=SGN jalkavaimoon
+vihannestori pos=N case=TRANS num=PLN vihannestoreiksi
+ruttu pos=N case=TRANS num=SGN rutuksi
+piristyA pos=V polar=POS mood=IMP tense=PRS per=3 num=PLV piristykOOt
+kydOtetty pos=ADJ case=ACC num=SGN kydOtetyn
+palvelustyttO pos=N case=ON+ABL num=PLN palvelustytOiltA
+oksennella pos=V polar=POS mood=IMP tense=PRS per=3 num=PLV oksennelkoot
+lOrppO pos=N case=FRML num=SGN lOrppOnA
+tariffi pos=N case=GEN num=SGN tariffin
+transformoida pos=V polar=POS mood=IND tense=PRS per=3 num=PLV transformoivat
+nikkelimalmi pos=N case=TRANS num=SGN nikkelimalmiksi
+wrappi pos=N case=NOM num=SGN wrappi
+bio-oikeus pos=N case=ON+ABL num=PLN bio-oikeuksilta
+vedenkorkeus pos=N case=IN+ESS num=PLN vedenkorkeuksissa
+klimppi pos=N case=IN+ESS num=PLN klimpeissA
+moraalisuus pos=N case=GEN num=SGN moraalisuuden
+virhemarginaali pos=N case=ON+ABL num=SGN virhemarginaalilta
+salaojaverkko pos=N case=ON+ALL num=SGN salaojaverkolle
+rusto pos=N case=PRIV num=SGN rustotta
+murto pos=N case=ACC num=PLN murrot
+bentsoyyliperoksidi pos=N case=NOM num=SGN bentsoyyliperoksidi
+kAtevyys pos=N case=ON+ABL num=PLN kAtevyyksiltA
+laimentaa pos=V polar=POS mood=IND tense=PST per=3 num=SGV laimensi
+yhteiskoulu pos=N case=ON+ABL num=SGN yhteiskoululta
+maapallo pos=N case=ON+ALL num=PLN maapalloille
+rAllAtA pos=V polar=POS mood=POT tense=PRS per=3 num=PLV rAllAnnevAt
+ostoskassi pos=N case=NOM num=PLN ostoskassit
+akettaa pos=V polar=POS mood=POT tense=PRS voice=PASS aketettaneen
+nAykkAistA pos=V polar=POS mood=IND tense=PRS per=1 num=SGV nAykkAisen
+tornittaa pos=V polar=POS mood=POT tense=PRS per=2 num=PLV tornittanette
+sapekas pos=ADJ case=ON+ABL num=SGN sapekkaalta
+leipAjono pos=N case=ON+ALL num=PLN leipAjonoille
+kenttAoikeus pos=N case=INS num=PLN kenttAoikeuksin
+tymoli pos=N case=ON+ESS num=SGN tymolilla
+raitiovaunu pos=N case=PRT num=PLN raitiovaunuja
+neutraali pos=ADJ case=GEN num=SGN neutraalin
+kriminologi pos=N case=ACC num=PLN kriminologit
+jarruttaa pos=V polar=POS mood=POT tense=PRS per=1 num=PLV jarruttanemme
+rahistaa pos=V polar=POS mood=POT tense=PRS per=2 num=SGV rahistanet
+ligatuuri pos=N case=ON+ESS num=SGN ligatuurilla
+rotko pos=N case=GEN num=PLN rotkojen
+uskottu pos=N case=ACC num=PLN uskotut
+lOyhytellA pos=V polar=POS mood=COND tense=PRS per=3 num=SGV lOyhyttelisi
+natista pos=V voice=ACT aspect=PROSP natisemaisillaan
+jAhmettAA pos=V voice=ACT finite=NFIN jAhmettAA
+tuulla pos=V polar=POS mood=POT tense=PRS voice=PASS tuultaneen
+mikroaaltouuni pos=N case=ACC num=PLN mikroaaltouunit
+hertsi pos=N case=IN+ABL num=PLN hertseistA
+asematyyppi pos=N case=ON+ESS num=SGN asematyypillA
+konsentraatti pos=N case=ON+ABL num=SGN konsentraatilta
+kaunistautua pos=V polar=POS mood=IND tense=PRS per=1 num=SGV kaunistaudun
+painostaa pos=V polar=POS mood=COND tense=PRS per=1 num=PLV painostaisimme
+patriarkaatti pos=N case=GEN num=SGN patriarkaatin
+tyhmentyA pos=V polar=POS mood=IMP tense=PRS per=2 num=SGV tyhmenny
+piccolopullo pos=N case=ON+ESS num=SGN piccolopullolla
+entti pos=N case=INS num=PLN entein
+romuttua pos=V polar=POS mood=COND tense=PRS per=3 num=PLV romuttuisivat
+kryyni pos=N case=NOM num=PLN kryynit
+vilistA pos=V voice=ACT aspect=PROSP vilisemAisillAAn
+zoomata pos=V polar=POS mood=IND tense=PST per=1 num=PLV zoomasimme
+koiranruusu pos=N case=NOM num=SGN koiranruusu
+heinittAA pos=V polar=POS mood=COND tense=PRS per=1 num=PLV heinittAisimme
+tereftaalihappo pos=N case=IN+ESS num=PLN tereftaalihapoissa
+muli pos=N case=INS num=PLN mulein
+hiihtohissi pos=N case=IN+ESS num=SGN hiihtohississA
+feodalisointi pos=N case=PRIV num=PLN feodalisoinneitta
+nelipyOrAveto pos=N case=IN+ABL num=PLN nelipyOrAvedoista
+vAlilasku pos=N case=PRT num=SGN vAlilaskua
+harmaa pos=ADJ case=FRML num=SGN harmaana
+haitinalmikki pos=N case=IN+ABL num=SGN haitinalmikista
+kroaatti pos=N case=PRT num=PLN kroaatteja
+orientointi pos=N case=PRIV num=PLN orientoinneitta
+kaksihaaraviuhko pos=N case=IN+ESS num=PLN kaksihaaraviuhkoissa
+fuusioitua pos=V polar=POS mood=IND tense=PRS per=1 num=PLV fuusioidumme
+lupailla pos=V polar=POS mood=IMP tense=PRS per=2 num=PLV lupailkaa
+melodramaattisuus pos=N case=GEN num=PLN melodramaattisuuksien
+nyansoida pos=V polar=POS mood=POT tense=PRS per=1 num=PLV nyansoinemme
+oktanitrokubaani pos=N case=GEN num=SGN oktanitrokubaanin
+mArkArupi pos=N case=IN+ESS num=PLN mArkAruvissa
+kosteuttaa pos=V polar=POS mood=POT tense=PRS per=3 num=PLV kosteuttanevat
+lento-onnettomuus pos=N case=GEN num=PLN lento-onnettomuuksien
+ostjakki pos=N case=IN+LAT num=PLN ostjakkeihin
+lykkiA pos=V polar=POS mood=IND tense=PRS voice=PASS lykitAAn
+sisAllyttAA pos=V voice=ACT aspect=PROSP sisAllyttAmAisillAAn
+kielteistyA pos=V polar=POS mood=IMP tense=PRS per=2 num=SGV kielteisty
+viskata pos=V voice=ACT aspect=PROSP viskaamaisillaan
+pompata pos=V mood=PURP voice=ACT pompatakseen
+eurokraatti pos=N case=COM num=PLN eurokraatteineen
+sihteerilintu pos=N case=GEN num=SGN sihteerilinnun
+drastisuus pos=N case=ACC num=SGN drastisuuden
+tuorejuusto pos=N case=GEN num=PLN tuorejuustojen
+instrumentoida pos=V polar=POS mood=COND tense=PRS per=2 num=PLV instrumentoisitte
+lentotunti pos=N case=FRML num=PLN lentotunteina
+sykloidi pos=N case=IN+ABL num=PLN sykloideista
+lAtkiA pos=V polar=POS mood=IND tense=PRS voice=PASS lAtkitAAn
+ovimaksu pos=N case=IN+ESS num=SGN ovimaksussa
+laajakaistayhteys pos=N case=NOM num=SGN laajakaistayhteys
+keto pos=N case=TRANS num=PLN kedoiksi
+silumiini pos=N case=IN+ABL num=PLN silumiineista
+nimetA pos=V polar=POS mood=IND tense=PST per=2 num=SGV nimesit
+pyllyseksi pos=N case=ON+ABL num=SGN pyllyseksiltA
+linnakundi pos=N case=PRT num=SGN linnakundia
+korva-aukko pos=N case=PRT num=PLN korva-aukkoja
+modeemiyhteys pos=N case=TRANS num=PLN modeemiyhteyksiksi
+stereoskooppi pos=N case=ON+ABL num=SGN stereoskoopilta
+amerikanmuikku pos=N case=ACC num=PLN amerikanmuikut
+skruudata pos=V polar=POS mood=COND tense=PRS per=3 num=PLV skruudaisivat
+humista pos=V polar=POS mood=IND tense=PST per=1 num=SGV humisin
+noussi pos=N case=IN+ESS num=PLN nousseissa
+kanakeitto pos=N case=IN+ABL num=SGN kanakeitosta
+rauhoitettu pos=ADJ case=ON+ALL num=PLN rauhoitetuille
+temperoida pos=V polar=POS mood=IND tense=PST per=1 num=SGV temperoin
+prioni pos=N case=FRML num=SGN prionina
+viedA pos=V polar=POS mood=IMP tense=PRS per=2 num=PLV viekAA
+aamu pos=N case=ON+ALL num=PLN aamuille
+seljetA pos=V polar=POS mood=IND tense=PRS per=3 num=PLV selkenevAt
+fyllata pos=V polar=POS mood=POT tense=PRS voice=PASS fyllattaneen
+ulkotulento pos=N case=FRML num=SGN ulkotulentona
+tuiskia pos=V polar=POS mood=POT tense=PRS voice=PASS tuiskittaneen
+zeppeliini pos=N case=IN+LAT num=PLN zeppeliineihin
+sauvoa pos=V polar=POS mood=IND tense=PRS voice=PASS sauvotaan
+aidoittaa pos=V polar=POS mood=IND tense=PST voice=PASS aidoitettiin
+nuhrautua pos=V polar=POS mood=IND tense=PST per=1 num=SGV nuhrauduin
+onkia pos=V polar=POS mood=COND tense=PRS per=1 num=SGV onkisin
+tottua pos=V polar=POS mood=POT tense=PRS per=1 num=SGV tottunen
+tuulla pos=V polar=POS mood=POT tense=PRS per=2 num=SGV tuullet
